@@ -14,6 +14,10 @@ section {
     margin: 5px;
     margin-bottom: 10px;
 }
+
+img {
+    max-width: 100%;
+}
 a {
     text-decoration: none;
     color: #999;
