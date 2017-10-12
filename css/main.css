@@ -106,11 +106,10 @@ ul.posts li {
     border-color: #35d6dc;
 }
 
-.navbar-light .navbar-nav .nav-link {
+.nav-link {
     color: #dc3545;
 }
 
-.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+.nav-link:hover {
     color: #d8d8d8;
-}
-  
+ }
