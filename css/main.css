@@ -97,8 +97,20 @@ ul.posts li {
     color: #d8d8d8;
 }
 
+.navbar-light .navbar-nav .nav-link {
+    color: #dc3545;
+}
+
 .navbar-light .navbar-toggler {
     color: #dc3545;
     border-color: #35d6dc;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #dc3545;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+    color: #d8d8d8;
 }
   
