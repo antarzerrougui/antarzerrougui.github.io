@@ -96,4 +96,9 @@ ul.posts li {
 .navbar-light:hover .navbar-nav:hover .nav-link.disabled:hover {
     color: #d8d8d8;
 }
+
+.navbar-light .navbar-toggler {
+    color: #dc3545;
+    border-color: #35d6dc;
+}
   
