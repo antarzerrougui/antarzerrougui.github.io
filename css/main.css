@@ -81,4 +81,19 @@ ul.posts li {
     transition: color 0.3s ease-in;
   }
   
+  .navbar-light .navbar-brand {
+    color: #dc3545;
+}
+
+.navbar-light:hover .navbar-brand:hover {
+    color: #d8d8d8;
+}
+
+.navbar-light .navbar-nav .nav-link.disabled {
+    color: #dc3545;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link.disabled:hover {
+    color: #d8d8d8;
+}
   
