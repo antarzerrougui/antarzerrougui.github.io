@@ -11,6 +11,7 @@ nav ul li, footer ul li {
 }
 
 section {
+    margin-top: 20px;
     margin: 5px;
     margin-bottom: 5px;
 }
@@ -82,38 +83,43 @@ ul.posts li {
   }
   
   .navbar-light .navbar-brand {
-    color: #dc3545;
+    color: #d8d8d8;
 }
 
 .navbar-light:hover .navbar-brand:hover {
-    color: #d8d8d8;
-}
-
-.navbar-light .navbar-nav .nav-link.disabled {
-    color: #dc3545;
-}
-
-.navbar-light:hover .navbar-nav:hover .nav-link.disabled:hover {
-    color: #d8d8d8;
+    color: #ffffff;
 }
 
 .navbar-light .navbar-nav .nav-link {
-    color: #dc3545;
+    color: #d3d1d1;
+}
+
+.navbar-light:hover .navbar-nav:hover .nav-link:hover {
+    color: #ffffff;
+}
+
+.navbar-light .navbar-nav .nav-link {
+    color: #d8d8d8;
 }
 
 .navbar-light .navbar-toggler {
-    color: #dc3545;
-    border-color: #35d6dc;
+    color: #d8d8d8;
+    border-color: #d8d8d8;
 }
 
 .nav-link {
-    color: #dc3545;
+    color: #d8d8d8;
 }
 
 .nav-link:hover {
-    color: #d8d8d8;
+    color: #ffffff;
  }
 
 .profile-pic{
-    margin-top: 50px;
+    margin-top: 70px;
+}
+
+btn {
+    padding: 5%;
+    align-self: center;
 }
